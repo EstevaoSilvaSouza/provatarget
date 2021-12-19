@@ -4,7 +4,7 @@
 
 - 2 - Resolvido :green_heart:
 
-- 3 - NaN :no_entry:
+- 3 - Resolvido:green_heart:
 
 - 4 - Resolvido :green_heart:
 
