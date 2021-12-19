@@ -1,4 +1,4 @@
-# Exercício Target :computer::red_circle:
+# Exercício Target :computer::nerd_face:
 
 - 1 - Resolvido :green_heart:
 
